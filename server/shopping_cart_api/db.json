@@ -1,0 +1,236 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "transportation": "Free shipping",
+      "img": "./images/img1.jpg",
+      "name": "AO SOMI W2SMD010019",
+      "price": 2,
+      "discount": [
+        5,
+        1.25
+      ],
+      "size": 1,
+      "count": 1
+    },
+    {
+      "id": 2,
+      "transportation": "Free shipping",
+      "img": "./images/img2.jpg",
+      "name": "DAM NU W2DAM030002",
+      "price": 20.5,
+      "discount": [
+        10,
+        5.25
+      ],
+      "size": 2,
+      "count": 1
+    },
+    {
+      "id": 3,
+      "transportation": "Free shipping",
+      "img": "./images/img3.jpg",
+      "name": "DAM NU DNG039003PK",
+      "price": 15.9,
+      "discount": [
+        8,
+        6.25
+      ],
+      "size": 3,
+      "count": 1
+    },
+    {
+      "id": 4,
+      "transportation": "Free shipping",
+      "img": "./images/img4.jpg",
+      "name": "AO THUN W2ATN030008",
+      "price": 8.9,
+      "discount": [
+        6,
+        2.25
+      ],
+      "size": 4,
+      "count": 1
+    },
+    {
+      "id": 5,
+      "transportation": "Free shipping",
+      "img": "./images/img5.jpg",
+      "name": "AO SOMI W2SMD01068",
+      "price": 20.9,
+      "discount": [
+        4,
+        1.25
+      ],
+      "size": 5,
+      "count": 1
+    },
+    {
+      "id": 6,
+      "transportation": "Free shipping",
+      "img": "./images/img6.jpg",
+      "name": "DAM NU DNG039003PK88",
+      "price": 30.9,
+      "discount": [
+        10,
+        15.25
+      ],
+      "size": 6,
+      "count": 1
+    },
+    {
+      "id": 7,
+      "transportation": "Free shipping",
+      "img": "./images/img7.jpg",
+      "name": "AO SOMI W2SMD010020",
+      "price": 15,
+      "discount": [
+        4,
+        5.25
+      ],
+      "size": 7,
+      "count": 1
+    },
+    {
+      "id": 8,
+      "transportation": "Free shipping",
+      "img": "./images/img8.jpg",
+      "name": "DAM NU DNG039003PSA",
+      "price": 20.8,
+      "discount": [
+        9,
+        8.25
+      ],
+      "size": 1,
+      "count": 1
+    }
+  ],
+  "detailPruduct": [
+    {
+      "id": 1,
+      "idPdoduct": 1,
+      "idSize": 1
+    },
+    {
+      "id": 2,
+      "idPdoduct": 1,
+      "idSize": 3
+    },
+    {
+      "id": 3,
+      "idPdoduct": 1,
+      "idSize": 6
+    },
+    {
+      "id": 4,
+      "idPdoduct": 2,
+      "idSize": 1
+    },
+    {
+      "id": 5,
+      "idPdoduct": 2,
+      "idSize": 2
+    },
+    {
+      "id": 6,
+      "idPdoduct": 2,
+      "idSize": 6
+    },
+    {
+      "id": 7,
+      "idPdoduct": 3,
+      "idSize": 2
+    },
+    {
+      "id": 8,
+      "idPdoduct": 3,
+      "idSize": 3
+    },
+    {
+      "id": 9,
+      "idPdoduct": 3,
+      "idSize": 7
+    },
+    {
+      "id": 10,
+      "idPdoduct": 4,
+      "idSize": 1
+    },
+    {
+      "id": 11,
+      "idPdoduct": 4,
+      "idSize": 2
+    },
+    {
+      "id": 12,
+      "idPdoduct": 4,
+      "idSize": 5
+    },
+    {
+      "id": 13,
+      "idPdoduct": 4,
+      "idSize": 6
+    },
+    {
+      "id": 14,
+      "idPdoduct": 5,
+      "idSize": 6
+    },
+    {
+      "id": 15,
+      "idPdoduct": 5,
+      "idSize": 4
+    },
+    {
+      "id": 16,
+      "idPdoduct": 6,
+      "idSize": 4
+    },
+    {
+      "id": 17,
+      "idPdoduct": 7,
+      "idSize": 2
+    },
+    {
+      "id": 18,
+      "idPdoduct": 7,
+      "idSize": 4
+    },
+    {
+      "id": 19,
+      "idPdoduct": 8,
+      "idSize": 7
+    }
+  ],
+  "sizes": [
+    {
+      "id": 1,
+      "name": "XS"
+    },
+    {
+      "id": 2,
+      "name": "S"
+    },
+    {
+      "id": 3,
+      "name": "M"
+    },
+    {
+      "id": 4,
+      "name": "ML"
+    },
+    {
+      "id": 5,
+      "name": "L"
+    },
+    {
+      "id": 6,
+      "name": "XL"
+    },
+    {
+      "id": 7,
+      "name": "XLL"
+    }
+  ],
+  "carts": []
+}
